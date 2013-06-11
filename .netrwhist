@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/charles/vim'
 let g:netrw_dirhist_2='/home/charles/.vim'
 let g:netrw_dirhist_3='/home/charles/.vim/bundle/vim-snippets'
 let g:netrw_dirhist_4='/home/charles/globalsn/cepiec/cepiec_admin'
+let g:netrw_dirhist_5='/home/charles/.vim/bundle/surround.vim'
