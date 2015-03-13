@@ -9,4 +9,4 @@
 
 ## install ##
 * mv my-vim .vim
-* ln -s my-vim/vimrc .vimrc
+* ln -s .vim/vimrc .vimrc
